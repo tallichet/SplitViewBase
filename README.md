@@ -8,4 +8,4 @@ The ***ShellView.xaml*** contains the SplitView and is may be responsible of the
 
 The ***App.xaml.cs*** set the ShellView in ***Windows.Current.Content*** instead of the Frame.
 
-See [https://universal42.azurewebsites.net/Blog] for more information
+See https://universal42.azurewebsites.net/Blog for more information
